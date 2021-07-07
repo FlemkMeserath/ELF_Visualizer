@@ -1,0 +1,7 @@
+Run visualizer to make the program work.
+
+The code takes as input 3 variables.
+
+python3 visualizer.py  [critic output file]  [cube ELF file]  [Networking Value]
+
+If you do not have the [cube ELF file], then just write None, the program works anyway.

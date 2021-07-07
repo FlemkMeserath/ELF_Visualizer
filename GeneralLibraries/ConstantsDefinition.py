@@ -1,0 +1,3 @@
+
+def BHOR_RADIUS():
+    return 0.5291772106712
